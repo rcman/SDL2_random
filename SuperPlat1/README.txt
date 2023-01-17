@@ -1,1 +1,1 @@
-A simple platform attempt with SDL2. It's compiled with scons on Linux
+A simple platform with ladders attempt with SDL2. It's compiled with scons on Linux
